@@ -1,2 +1,1 @@
-# code
-Test repository. Learning how to use github.
+Repository for Code 2040 projects
